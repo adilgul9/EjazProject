@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAKxxAmxAh50etauhJBVvR4gAAAAACAAAAAAAQZgAAAAEAACAAAABswX1LPEdTuXBOe9jAiN5YLQdHnyyCUCFGasVTCkXEawAAAAAOgAAAAAIAACAAAABqnuuvQkdgoyeYNoq1MFMbefBhx9LUyitWnwGSPpk0sSAAAADT8mLKM1y8bckTTbpzfvz9Ewwkb/OpGvVWPM11VN+gZkAAAACLym2IefqGD296MLyer4UnnbnDnjUNWBYKGeKo/Bylup4rav6/OEYMeD+Ij8KxU1Wctefd1seQObC4kLcFTNCG</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.flightinternationaluk.co.uk/public_html</_PublishTargetUrl>
+    <History>False|2023-02-11T19:15:18.4349022Z;</History>
+  </PropertyGroup>
+</Project>
